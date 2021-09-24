@@ -9,7 +9,17 @@
 
 https://apps.apple.com/it/app/element-eyes/id1509916197
 
-
+<div class="row">
+  <div class="column">
+    <img src="1.jpg" alt="1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="2.jpg" alt="2" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="3.jpg" alt="3" style="width:100%">
+  </div>
+</div>
 
 ### Story
 <p class="aligncenter">
@@ -40,3 +50,19 @@ If you need support for Element Eyes app you can contact me at andrea.dellaira19
 }
 </style>
 
+<style>
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+    
