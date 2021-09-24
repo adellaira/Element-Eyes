@@ -1,9 +1,12 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+<p class="aligncenter">
+    <img src="iicon 180.png" alt="centered image" />
+</p>
+
+<style>
+.aligncenter {
+    text-align: center;
 }
+</style>
 
 <img src="icon 180.png" alt="hi" class="center"/>
 
