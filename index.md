@@ -32,14 +32,14 @@ The mysterious eyes invaded the Solar System, choose an element and upgrade it t
 
 - Each Element has 5 upgrades:
 
-  1 - Elemental: Basic Fire Rate, upgrade it to increase the frequency.
-  2 - Alchemy: It gives a short period of invulnerability against 
-      several enemies.
-  3 - Equilibrium: Balance between offensive and defensive power.
-  4 - Power: Your Elemental Fire Rate becomes stronger and larger and 
-      piercing, useful with strong enemies.
-  5 - Special (Unique cool down ability of the Element):
-      Activate it with a double tap anywhere on the screen.
+  1 Elemental: Basic Fire Rate, upgrade it to increase the frequency.
+  2 Alchemy: It gives a short period of invulnerability against 
+    several enemies.
+  3 Equilibrium: Balance between offensive and defensive power.
+  4 Power: Your Elemental Fire Rate becomes stronger and larger and 
+    piercing, useful with strong enemies.
+  5 Special (Unique cool down ability of the Element):
+    Activate it with a double tap anywhere on the screen.
 
 - Incremental Boss Fights and 9 challenger levels.
 
