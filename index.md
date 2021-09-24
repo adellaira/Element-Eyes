@@ -13,7 +13,7 @@ https://apps.apple.com/it/app/element-eyes/id1509916197
 
 ### Story
 <p class="aligncenter">
-    <img src="1.jpg" alt="1" width="50%" height="50%"/>
+    <img src="1.jpg" alt="1" width="30%" height="30%"/>
 </p> The mysterious eyes invaded the Solar System, choose an element and upgrade it to defeat them!
 
 ### Features
