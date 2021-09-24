@@ -22,8 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+IMG_2047.jpeg
+[Link](https://github.com/adellaira/Element-Eyes/blob/gh-pages) and ![Image](IMG_2047.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
