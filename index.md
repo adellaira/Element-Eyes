@@ -9,22 +9,19 @@
 
 https://apps.apple.com/it/app/element-eyes/id1509916197
 
+### Enjoy and have fun in Element Eyes!
 <div class="row">
-  <div class="column">
-    <img src="1.jpg" alt="1" style="width:100%">
-  </div>
   <div class="column">
     <img src="2.jpg" alt="2" style="width:100%">
   </div>
   <div class="column">
-    <img src="3.jpg" alt="3" style="width:100%">
+    <img src="4.jpg" alt="4" style="width:100%">
   </div>
 </div>
 
 ### Story
-<p class="aligncenter">
-    <img src="1.jpg" alt="1" width="30%" height="30%"/>
-</p> The mysterious eyes invaded the Solar System, choose an element and upgrade it to defeat them!
+
+The mysterious eyes invaded the Solar System, choose an element and upgrade it to defeat them!
 
 ### Features
 
@@ -37,7 +34,6 @@ https://apps.apple.com/it/app/element-eyes/id1509916197
 
  *  You can progress all 4 elements in parallel.
 
-### Enjoy and have fun in Element Eyes!
 
 ### Support or Contact
 
@@ -51,18 +47,13 @@ If you need support for Element Eyes app you can contact me at andrea.dellaira19
 </style>
 
 <style>
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+.row {
+  display: flex;
 }
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.column {
+  flex: 50.00%;
+  padding: 5px;
 }
 </style>
     
