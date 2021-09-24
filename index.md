@@ -27,28 +27,27 @@ The mysterious eyes invaded the Solar System, choose an element and upgrade it t
 
 ### Features
 
- 
-- 4 Elements to choose: Water, Fire, Air, Earth
+<ul> 
+<li> 4 Elements to choose: Water, Fire, Air, Earth </li>
 
-- Each Element has 5 upgrades:
+<li> Each Element has 5 upgrades: </li>
+<ul> 
+   <li> Elemental: Basic Fire Rate, upgrade it to increase the frequency. </li>
+   <li> Alchemy: It gives a short period of invulnerability against several enemies. </li>
+   <li> Equilibrium: Balance between offensive and defensive power. </li>
+   <li> Power: Your Elemental Fire Rate becomes stronger and larger and piercing, useful with strong enemies. </li>
+   <li> Special (Unique cool down ability of the Element): </li>
+   <li> Activate it with a double tap anywhere on the screen. </li>
+</ul> 
+<li> Incremental Boss Fights and 9 challenger levels.
 
-  1 Elemental: Basic Fire Rate, upgrade it to increase the frequency.
-  2 Alchemy: It gives a short period of invulnerability against 
-    several enemies.
-  3 Equilibrium: Balance between offensive and defensive power.
-  4 Power: Your Elemental Fire Rate becomes stronger and larger and 
-    piercing, useful with strong enemies.
-  5 Special (Unique cool down ability of the Element):
-    Activate it with a double tap anywhere on the screen.
+<li> You can progress all the 4 elements in parallel.
 
-- Incremental Boss Fights and 9 challenger levels.
+<li> Auto-Saving after starting a new planet and after having defeated a boss.
 
-- You can progress all the 4 elements in parallel.
+<li> End game mode after the main story with increased difficulty 
 
-- Auto-Saving after starting a new planet and after having defeated a boss.
-
-- End game mode after the main story with increased difficulty 
-
+</ul> 
 
 ### Support or Contact
 
