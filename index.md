@@ -7,14 +7,6 @@
 </p>
 
 
-
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
-
-
 https://apps.apple.com/it/app/element-eyes/id1509916197
 
 
@@ -40,3 +32,11 @@ https://apps.apple.com/it/app/element-eyes/id1509916197
 ### Support or Contact
 
 If you need support for Element Eyes app you can contact me at andrea.dellaira1989@gmail.com
+
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
