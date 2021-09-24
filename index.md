@@ -4,7 +4,7 @@
 
 <p class="aligncenter">
     <a href="https://apps.apple.com/it/app/element-eyes/id1509916197">
-    <img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="icon" width = "150%" height = "150%" />
+    <img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="icon" width = "50%" height = "50%" />
     </a>
 </p>
 
