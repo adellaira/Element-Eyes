@@ -1,5 +1,5 @@
 <p class="aligncenter">
-    <img src="iicon 180.png" alt="centered image" />
+    <img src="icon 180.png" alt="centered image" />
 </p>
 
 <style>
