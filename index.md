@@ -25,7 +25,7 @@ Syntax highlighted code block
 IMG_2047.jpeg
 [Link](https://github.com/adellaira/Element-Eyes/blob/gh-pages) and ![Image](IMG_2047.jpeg)
 
-<img src="iIMG_2047.jpeg" alt="hi" class="inline"/>
+<img src="IMG_2047.jpeg" alt="hi" class="inline"/>
 
 ```
 
