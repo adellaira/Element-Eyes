@@ -1,17 +1,18 @@
 <p class="aligncenter">
-    <img src="icon 180.png" alt="centered image" />
+    <img src="icon 87.png" alt="icon" />
 </p>
+
+<p class="aligncenter">
+    <img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="icon" />
+</p>
+
+
 
 <style>
 .aligncenter {
     text-align: center;
 }
 </style>
-
-<img src="icon 180.png" alt="hi" class="center"/>
-
-
-<img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="hi" class="center"/>
 
 
 https://apps.apple.com/it/app/element-eyes/id1509916197
