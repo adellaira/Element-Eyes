@@ -9,7 +9,7 @@
 </p>
 
 
-## Have fun with the app game Element Eyes!
+### Have fun with the app game Element Eyes!
 
 
 <div class="row">
@@ -39,13 +39,13 @@ The mysterious eyes invaded the Solar System, choose an element and upgrade it t
    <li> Special (Unique cool down ability of the Element): </li>
    <li> Activate it with a double tap anywhere on the screen. </li>
 </ul> 
-<li> Incremental Boss Fights and 9 challenger levels.
+<li> Incremental Boss Fights and 9 challenger levels. </li>
 
-<li> You can progress all the 4 elements in parallel.
+<li> You can progress all the 4 elements in parallel. </li>
 
-<li> Auto-Saving after starting a new planet and after having defeated a boss.
+<li> Auto-Saving after starting a new planet and after having defeated a boss. </li>
 
-<li> End game mode after the main story with increased difficulty 
+<li> End game mode after the main story with increased difficulty </li>
 
 </ul> 
 
