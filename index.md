@@ -9,7 +9,7 @@
 </p>
 
 
-### Have fun with app game Element Eyes!
+## Have fun with the app game Element Eyes!
 
 
 <div class="row">
