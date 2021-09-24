@@ -3,6 +3,21 @@
 
 https://apps.apple.com/it/app/element-eyes/id1509916197
 
+
+<div id="container" style="white-space:nowrap">
+
+    <div id="image" style="display:inline;">
+        <img src="icon 180.png"/>
+    </div>
+
+    <div id="texts" style="display:inline; white-space:nowrap;"> 
+        A very long text(about 300 words) 
+    </div>
+
+</div>
+
+
+
 ### Story
 The mysterious eyes invaded the Solar System, choose an element and upgrade it to defeat them!
 
