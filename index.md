@@ -1,5 +1,12 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 <img src="icon 180.png" alt="hi" class="center"/>
+
 
 <img src="Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="hi" class="center"/>
 
