@@ -1,7 +1,3 @@
-github:
-  is_project_page: false
-
-
 <p class="aligncenter">
     <img src="icon 87.png" alt="icon" />
 </p>
