@@ -9,7 +9,7 @@
 </p>
 
 
-### Have fun with the app game Element Eyes!
+### Have fun with the app game Space Starfall!
 
 
 <div class="row">
@@ -49,9 +49,9 @@ The mysterious eyes invaded the Solar System, choose an element and upgrade it t
 </ul> 
 </ul> 
 
-### Support or Contact
+### Support and Contact
 
-If you need support for Space Element app you can contact me at andrea.dellaira1989@gmail.com
+If you need support for Space Starfall app you can contact me at andrea.dellaira1989@gmail.com
 
 
 <style>
