@@ -51,7 +51,7 @@ The mysterious eyes invaded the Solar System, choose an element and upgrade it t
 
 ### Support or Contact
 
-If you need support for Element Eyes app you can contact me at andrea.dellaira1989@gmail.com
+If you need support for Space Element app you can contact me at andrea.dellaira1989@gmail.com
 
 
 <style>
